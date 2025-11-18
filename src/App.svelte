@@ -3,14 +3,12 @@
 <!-- Recreated by Scott from Syntax team: https://www.youtube.com/watch?v=9H34nxxVEgc -->
 
 <script>
-  // plain Svelte reactivity (no runes)
   let sites = ["HELLO", "WORLD", "ANIMATION"];
   let active_font = "sans-serif";
 
-  // values used in styles
-  let size = 80; // px
-  let weight = false; // toggles 100 vs 900
-  let speed = 0.5; // seconds
+  let size = 80;
+  let weight = false;
+  let speed = 0.5;
 </script>
 
 <svelte:head>
