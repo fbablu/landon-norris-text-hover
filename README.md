@@ -1,4 +1,4 @@
-![Hover Animation Preview](./public/animation.mov)
+![Hover Animation Preview](./public/animation.mp4)
 
 # Landon Norris Text Hover
 
